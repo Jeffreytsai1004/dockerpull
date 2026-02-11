@@ -1,0 +1,69 @@
+# Docker镜像加速器列表 (更新于2025年12月)
+# 使用方法: 在Docker配置文件中添加 "registry-mirrors": ["https://镜像地址"]
+
+# 官方推荐镜像源
+docker.m.daocloud.io
+mirror.ccs.tencentyun.com
+atomhub.openatom.cn
+
+# 稳定可用的镜像源
+docker.1panel.live
+docker.1panel.dev
+docker.1ms.run
+hub.rat.dev
+dhub.kubesre.xyz
+docker.kejilion.pro
+docker.chenby.cn
+docker.xuanyuan.me
+docker.nastool.de
+docker.ckyl.me
+docker.awsl9527.cn
+docker.mrxn.net
+docker.anyhub.us.kg
+docker.wget.at
+docker.foreverlink.love
+docker.5z5f.com
+docker.cloudlayer.icu
+docker.linkedbus.com
+docker.hpcloud.cloud
+docker.zhai.cm
+docker.lefu.me
+docker.mhtsec.com
+docker.shaunyang.site
+docker.aityp.com
+docker.wanpeng.top
+docker.xiaogenban1993.com
+docker.mybacc.com
+docker.yomansunter.com
+docker.fxxk.dedyn.io
+
+# 其他可用镜像源
+hub.xdark.top
+hub.littlediary.cn
+hub.uuuadc.top
+hub.geekery.cn
+hub.gog.email
+hub.crdz.gq
+registry.dockermirror.com
+dockerhub.icu
+dockerhub.jobcher.com
+dockerhub.websoft9.com
+docker.unsee.tech
+docker-0.unsee.tech
+docker.udayun.com
+
+# 备用镜像源
+cjie.eu.org
+
+# 已失效的镜像源 (请勿使用)
+# dockerpull.org (2024年12月27日被GFW封锁)
+# docker.imgdb.de (已失效)
+# hub.firefly.store (已失效)
+# docker.hlmirror.com (已失效)
+# run-docker.cn (已失效)
+# docker.sunzishaokao.com (已失效)
+# image.cloudlayer.icu (已失效)
+# docker.tbedu.top (已失效)
+# docker.melikeme.cn (已失效)
+# dockerhub.xisoul.cn (已失效)
+# docker.actima.top (已失效)
